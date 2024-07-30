@@ -3,9 +3,10 @@
 ![sergenode-BG](https://github.com/user-attachments/assets/1a945ed1-0f81-41c1-b66e-2aafe9cc538c)
 
 # My Activity:
-![warden_protocol1712592581726](https://github.com/user-attachments/assets/4a74dbf7-fa03-4501-90d2-a44f356dabed)
-![l4oqDz8R_200x200](https://github.com/user-attachments/assets/2aa987bf-f6d0-4fee-8cdc-7e53c44c7f8d)
-![images](https://github.com/user-attachments/assets/5de6d682-3e50-4930-a34c-b08b58cc602d)
+
+<img src="https://github.com/user-attachments/assets/4a74dbf7-fa03-4501-90d2-a44f356dabed" width=150>
+<img src="https://github.com/user-attachments/assets/2aa987bf-f6d0-4fee-8cdc-7e53c44c7f8d" width=150>
+<img src="https://github.com/user-attachments/assets/5de6d682-3e50-4930-a34c-b08b58cc602d" width=150>
 
 # My Guides:
 ## 0G LABS:
