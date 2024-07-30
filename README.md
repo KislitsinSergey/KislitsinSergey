@@ -18,7 +18,7 @@
 
 |**0G_LABS**|**WARDEN**|**CROSSFI**|
 |:------|:-----|:------|
-|[**How to run da retriever**](https://github.com/KislitsinSergey/how-to-run-da-retriever)|[**How to become a validator**](https://medium.com/@sergenode/warden-protocol-how-to-become-a-validator-40a83e18f985)||
+|[**How to run da retriever**](https://github.com/KislitsinSergey/how-to-run-da-retriever)|[**How to become a validator**](https://medium.com/@sergenode/warden-protocol-how-to-become-a-validator-40a83e18f985)|[**Installing Foundry**](https://medium.com/@sergenode/crossfi-chain-installing-foundry-98f72c535b9c)|
 |[**How to run storage kv**](https://github.com/KislitsinSergey/how-to-run-storage-kv)|||
 
 # My Social Links:
