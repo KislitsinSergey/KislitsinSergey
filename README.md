@@ -15,12 +15,6 @@
 
 # My Social Links:
 
-## Twitter
-- https://x.com/cutegina0118
-
-## Discord
-- https://discord.com/users/960029203468795914
-
-## Medium
-- https://medium.com/@sergenode
-
+|Twitter|Discord|Medium|
+|:------|:------|:-----|
+|https://x.com/cutegina0118|https://discord.com/users/960029203468795914|https://medium.com/@sergenode|
