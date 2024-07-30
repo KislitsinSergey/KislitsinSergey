@@ -15,7 +15,8 @@
 
 |0G_LABS|WARDEN|CROSSFI|
 |:------|:-----|:------|
-|- [**How to run da retriever**](https://github.com/KislitsinSergey/how-to-run-da-retriever) - [**How to run storage kv**](https://github.com/KislitsinSergey/how-to-run-storage-kv)|||
+|[**How to run da retriever**](https://github.com/KislitsinSergey/how-to-run-da-retriever)|||
+|[**How to run storage kv**](https://github.com/KislitsinSergey/how-to-run-storage-kv)|||
 
 # My Social Links:
 
