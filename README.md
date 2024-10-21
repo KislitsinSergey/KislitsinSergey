@@ -4,22 +4,16 @@
 
 # My Activity:
 
-<img src="https://github.com/user-attachments/assets/4a74dbf7-fa03-4501-90d2-a44f356dabed" width=150>
-<img src="https://github.com/user-attachments/assets/2aa987bf-f6d0-4fee-8cdc-7e53c44c7f8d" width=150>
-<img src="https://github.com/user-attachments/assets/5de6d682-3e50-4930-a34c-b08b58cc602d" width=150>
-<img src="https://github.com/user-attachments/assets/c1eb2e50-8334-4967-bd68-c78665ce02f8" width=150>
 
-
-|**WARDEN**|**CROSSFI**|**LAVA**|**0G_LABS**|
+|**REBUS** <img src="https://pbs.twimg.com/profile_images/1513865442170974209/YKF-ZCez_400x400.png" width=150> |**BABYLON** <img src="https://img.cryptorank.io/coins/babylon1701677979121.png" width=150> |**HYPERLIQUID** <img src="https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_400x400.png" width=150> |**MANTRA** <img src="https://pbs.twimg.com/profile_images/1790339778346618880/ihlLQAMC_400x400.jpg" width=150> |
 |:---------|:----------|:-------|:----------|
-|**wardenvaloper1smqmsghjuhulhwdn76rfjcr545lnh2c23m93cx**|**mxvaloper1slz0ta8j82rhpmyk66vge3fw34gye8qycqzjrd**|**lava@valoper1pz9hv2g4rryj0l56k3zfwuhgzx82226eh3a6w4**|**0gvaloper1n2aeup8ctyzh0d2kuaapgxldve3zju7a8nlema**|
 
 # My Guides:
 
-|**0G_LABS**|**WARDEN**|**CROSSFI**|
-|:------|:-----|:------|
-|[**How to run da retriever**](https://github.com/KislitsinSergey/how-to-run-da-retriever)|[**How to become a validator**](https://medium.com/@sergenode/warden-protocol-how-to-become-a-validator-40a83e18f985)|[**Installing Foundry**](https://medium.com/@sergenode/crossfi-chain-installing-foundry-98f72c535b9c)|
-|[**How to run storage kv**](https://github.com/KislitsinSergey/how-to-run-storage-kv)|||
+|**REBUS**|**HYPERLIQUID**|**BABYLON**|**MANTRA**|
+|:------|:-----|:------|:------|
+|[**Rebus node**](https://github.com/KislitsinSergey/how-to-run-rebus-node)|[**How to become a validator**](https://medium.com/@sergenode/warden-protocol-how-to-become-a-validator-40a83e18f985)|[**Run node babylon**](https://github.com/KislitsinSergey/how-to-run-node-babylon)|[**Installation node**](https://medium.com/@sergenode/crossfi-chain-installing-foundry-98f72c535b9c)|
+
 
 # My Social Links:
 
